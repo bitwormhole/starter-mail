@@ -12,8 +12,8 @@ import (
 
 const (
 	myModuleName = "github.com/bitwormhole/starter-mail"
-	myModuleVer  = "v0.0.0"
-	myModuleRev  = 0
+	myModuleVer  = "v0.1.0"
+	myModuleRev  = 1
 )
 
 ////////////////////////////////////////////////////////////////////////////////
